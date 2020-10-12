@@ -1,0 +1,3 @@
+and_gate.v
+or_gate.v
+tb.v
